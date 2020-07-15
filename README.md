@@ -1,5 +1,5 @@
-# SaaS Time Series
+# Time Series
 
 ## Purpose
 
-This repository contains resources used for time series analysis on SaaS data.
+This repository contains resources used for time series analysis.
